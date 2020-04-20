@@ -20,19 +20,3 @@
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   text-align: center;
 }
-
-.project-container-container {
-  text-align: center;
-  display: flex;
-}
-
-.project-container {
-  display: flex;
-  width: 80%;
-  display: inline-block;
-}
-
-.project-container-child {
-  border: 0px solid rgba(22, 21, 21, 0.8);
-  width: 33%;
-}
