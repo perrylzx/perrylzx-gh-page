@@ -1,5 +1,11 @@
 import React from "react";
+import Button from "react-bootstrap/Button";
+import Card from "react-bootstrap/Card";
 import "./PersonalProject.css";
+import goggle from "./pictures/goggle.png";
+import instagram from "./pictures/instagram.png";
+import pitchbooker from "./pictures/pitchbooker.png";
+import todolist from "./pictures/todolist.png";
 
 export default class PersonalProject extends React.Component {
   render() {
@@ -14,58 +20,60 @@ export default class PersonalProject extends React.Component {
         </div>
 
         <div className="personal-project-container">
-          <div className="card" style={{ width: "18rem" }}>
-            <div className="Card.Img" variant="top" src="pokemon.png" />
-            <div className="card-body">
-              <h5 className="card-title">Clone of Google Search</h5>
-              <p className="card-text">
+          <Card style={{ width: "18rem" }}>
+            <Card.Img variant="top" src={goggle} />
+            <Card.Body>
+              <Card.Title>Clone of Google Search</Card.Title>
+              <Card.Text>
                 A clone of the google search page for my first project.
-              </p>
-              <a
+              </Card.Text>
+              <Button
+                variant="primary"
                 href="http://perrylzx.github.io/google-clone"
-                className="card-link"
               >
                 Here
-              </a>
-            </div>
-          </div>
-
-          <div className="card" style={{ width: "18rem" }}>
-            <div className="card-body">
-              <h5 className="card-title">Todolist</h5>
-              <p className="card-text">A todolist made in react and redux.</p>
-              <a
+              </Button>
+            </Card.Body>
+          </Card>
+          <Card style={{ width: "18rem" }}>
+            <Card.Img variant="top" src={todolist} />
+            <Card.Body>
+              <Card.Title>Todolist</Card.Title>
+              <Card.Text>A todolist made in react and redux.</Card.Text>
+              <Button
+                variant="primary"
                 href="http://perrylzx.github.io/to-do-list"
-                className="card-link"
               >
                 Here
-              </a>
-            </div>
-          </div>
-          <div className="card" style={{ width: "18rem" }}>
-            <div className="card-body">
-              <h5 className="card-title">pitch-booker</h5>
-              <p className="card-text">A pitch booker app.</p>
-              <a
-                href="https://pitch-booker.herokuapp.com/"
-                className="card-link"
+              </Button>
+            </Card.Body>
+          </Card>
+          <Card style={{ width: "18rem" }}>
+            <Card.Img variant="top" src={pitchbooker} />
+            <Card.Body>
+              <Card.Title>pitch-booker</Card.Title>
+              <Card.Text>A pitch booker app.</Card.Text>
+              <Button
+                variant="primary"
+                href="https://pitch-booker.herokuapp.com"
               >
                 Here
-              </a>
-            </div>
-          </div>
-          <div className="card" style={{ width: "18rem" }}>
-            <div className="card-body">
-              <h5 className="card-title">Instagram</h5>
-              <p className="card-text">An image sharing app.</p>
-              <a
+              </Button>
+            </Card.Body>
+          </Card>
+          <Card style={{ width: "18rem" }}>
+            <Card.Img variant="top" src={instagram} />
+            <Card.Body>
+              <Card.Title>Instagram</Card.Title>
+              <Card.Text>An image sharing app.</Card.Text>
+              <Button
+                variant="primary"
                 href="https://kittengram-9e684.firebaseapp.com/"
-                className="card-link"
               >
                 Here
-              </a>
-            </div>
-          </div>
+              </Button>
+            </Card.Body>
+          </Card>
         </div>
       </div>
     );
