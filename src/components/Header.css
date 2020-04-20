@@ -21,44 +21,6 @@
   text-align: center;
 }
 
-#bio {
-  text-align: left;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-  font-weight: 500;
-  font-size: 20px;
-  color: rgb(0, 0, 0);
-  margin-left: 50px;
-  line-height: 3;
-}
-
-#links {
-  text-align: center;
-  margin-bottom: 35px;
-}
-
-body {
-  background-color: rgb(249, 252, 255);
-}
-
-#bio2 {
-  text-align: left;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-  font-weight: 500;
-  font-size: 20px;
-  color: rgb(0, 0, 0);
-  margin-left: 50px;
-  margin-top: 50px;
-  line-height: 3;
-}
-
-.personal-project-container {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-}
-
 .project-container-container {
   text-align: center;
   display: flex;
