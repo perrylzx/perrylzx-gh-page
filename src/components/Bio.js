@@ -1,5 +1,5 @@
 import React from "react";
-import "./Header.css";
+import "./Bio.css";
 
 export default class Bio extends React.Component {
   render() {
