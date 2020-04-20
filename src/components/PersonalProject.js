@@ -1,5 +1,5 @@
 import React from "react";
-import "./Header.css";
+import "./PersonalProject.css";
 
 export default class PersonalProject extends React.Component {
   render() {
@@ -15,7 +15,7 @@ export default class PersonalProject extends React.Component {
 
         <div className="personal-project-container">
           <div className="card" style={{ width: "18rem" }}>
-            <div classNameName="Card.Img" variant="top" src="pokemon.png" />
+            <div className="Card.Img" variant="top" src="pokemon.png" />
             <div className="card-body">
               <h5 className="card-title">Clone of Google Search</h5>
               <p className="card-text">
