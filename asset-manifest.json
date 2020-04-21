@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19c8e602.chunk.css",
+    "main.js": "/static/js/main.1da773fa.chunk.js",
+    "main.js.map": "/static/js/main.1da773fa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.52ec50ca.js",
+    "runtime-main.js.map": "/static/js/runtime-main.52ec50ca.js.map",
+    "static/css/2.69121389.chunk.css": "/static/css/2.69121389.chunk.css",
+    "static/js/2.3d1fdabf.chunk.js": "/static/js/2.3d1fdabf.chunk.js",
+    "static/js/2.3d1fdabf.chunk.js.map": "/static/js/2.3d1fdabf.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5746dd82314c21e6b3c1637ef4938183.js": "/precache-manifest.5746dd82314c21e6b3c1637ef4938183.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/static/css/2.69121389.chunk.css.map",
+    "static/css/main.19c8e602.chunk.css.map": "/static/css/main.19c8e602.chunk.css.map",
+    "static/js/2.3d1fdabf.chunk.js.LICENSE.txt": "/static/js/2.3d1fdabf.chunk.js.LICENSE.txt",
+    "static/media/company_logo.png": "/static/media/company_logo.9eb78756.png",
+    "static/media/goggle.png": "/static/media/goggle.64eae042.png",
+    "static/media/instagram.png": "/static/media/instagram.dd1dc864.png",
+    "static/media/pitchbooker.png": "/static/media/pitchbooker.3671b426.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52ec50ca.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.3d1fdabf.chunk.js",
+    "static/css/main.19c8e602.chunk.css",
+    "static/js/main.1da773fa.chunk.js"
+  ]
+}
