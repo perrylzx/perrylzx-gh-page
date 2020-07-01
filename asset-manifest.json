@@ -1,29 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.19c8e602.chunk.css",
-    "main.js": "/static/js/main.c81f5eb5.chunk.js",
-    "main.js.map": "/static/js/main.c81f5eb5.chunk.js.map",
+    "main.css": "/static/css/main.53222925.chunk.css",
+    "main.js": "/static/js/main.70acfd26.chunk.js",
+    "main.js.map": "/static/js/main.70acfd26.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.84b59cdb.js",
     "runtime-main.js.map": "/static/js/runtime-main.84b59cdb.js.map",
     "static/css/2.69121389.chunk.css": "/static/css/2.69121389.chunk.css",
-    "static/js/2.9ede502b.chunk.js": "/static/js/2.9ede502b.chunk.js",
-    "static/js/2.9ede502b.chunk.js.map": "/static/js/2.9ede502b.chunk.js.map",
+    "static/js/2.7484e2df.chunk.js": "/static/js/2.7484e2df.chunk.js",
+    "static/js/2.7484e2df.chunk.js.map": "/static/js/2.7484e2df.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ee4d4f5555bd9250982c8695e03396ce.js": "/precache-manifest.ee4d4f5555bd9250982c8695e03396ce.js",
+    "precache-manifest.6c464c3e75d31217b827a43cb4d26e04.js": "/precache-manifest.6c464c3e75d31217b827a43cb4d26e04.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/static/css/2.69121389.chunk.css.map",
-    "static/css/main.19c8e602.chunk.css.map": "/static/css/main.19c8e602.chunk.css.map",
-    "static/js/2.9ede502b.chunk.js.LICENSE.txt": "/static/js/2.9ede502b.chunk.js.LICENSE.txt",
+    "static/css/main.53222925.chunk.css.map": "/static/css/main.53222925.chunk.css.map",
+    "static/js/2.7484e2df.chunk.js.LICENSE.txt": "/static/js/2.7484e2df.chunk.js.LICENSE.txt",
     "static/media/company_logo.png": "/static/media/company_logo.9eb78756.png",
+    "static/media/covid.png": "/static/media/covid.7e6bdace.png",
     "static/media/goggle.png": "/static/media/goggle.64eae042.png",
     "static/media/instagram.png": "/static/media/instagram.dd1dc864.png",
-    "static/media/pitchbooker.png": "/static/media/pitchbooker.3671b426.png"
+    "static/media/isitopen.png": "/static/media/isitopen.e4a0f3fc.png",
+    "static/media/pitchbooker.png": "/static/media/pitchbooker.3671b426.png",
+    "static/media/terygram.png": "/static/media/terygram.562b9474.png"
   },
   "entrypoints": [
     "static/js/runtime-main.84b59cdb.js",
     "static/css/2.69121389.chunk.css",
-    "static/js/2.9ede502b.chunk.js",
-    "static/css/main.19c8e602.chunk.css",
-    "static/js/main.c81f5eb5.chunk.js"
+    "static/js/2.7484e2df.chunk.js",
+    "static/css/main.53222925.chunk.css",
+    "static/js/main.70acfd26.chunk.js"
   ]
 }
